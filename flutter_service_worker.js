@@ -4,10 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/assests/images/background.png": "87e7d9137b3ef9f4a004c2b580b0297a",
+"assets/assests/images/digitalmarketing.jpg": "34a73a527d20eaf7e59c8728fa0a0d4e",
+"assets/assests/images/flutter.jpg": "d1c9545b9f36a7dc717e297a45adc3e3",
 "assets/assests/images/WEB1.png": "90ba5ae52b8a79f6f631ee0625cd9b64",
 "assets/assests/images/web2.jpg": "39631bc198243a44d3032af50503897f",
 "assets/assests/loading%2520gifs/loading1.gif": "9225b0d6bbd156dfd75d13d587fd37c2",
-"assets/AssetManifest.json": "df25bd2acdc4d4252b32d672ff635a55",
+"assets/AssetManifest.json": "0b650f8cdb8d843f9373d47c329c272c",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "e20a26b3bf31ec051e8eb663b88a509e",
@@ -17,9 +19,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "b9ed74ae4faf22143e85fa6c673b14d1",
-"/": "b9ed74ae4faf22143e85fa6c673b14d1",
-"main.dart.js": "d218f758dd3cd91fe455f14a7ef2b9e7",
+"index.html": "a3746e13a094a3ad0bac91da17e31784",
+"/": "a3746e13a094a3ad0bac91da17e31784",
+"main.dart.js": "aac2785f68a87964905a418a4ff84a29",
 "manifest.json": "3d9b369265eb00a2b9f833c932327313",
 "version.json": "9a4dddba415c9ee5265cd5f5d9963a6a"
 };
